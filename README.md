@@ -5,6 +5,9 @@
 服务器的源码也可以单独出售（c++开发的）；
 运营后台和代理后台的源码也可以单独出售（java开发）
 德州俱乐部的设计文案也可以单独出售；
+
+TG:@alibabama401或邮箱：ttpoker40@gmail.com
+
 ![1房间列表](https://github.com/user-attachments/assets/e4966378-1d3b-4bb8-8009-872d89024424)
 ![01](https://github.com/user-attachments/assets/3893a6c7-9015-461a-885b-9e040cb0928a)
 ![4房间2-6人桌](https://github.com/user-attachments/assets/0708b9f2-0fa6-4679-97f5-0077b71c39dc)
