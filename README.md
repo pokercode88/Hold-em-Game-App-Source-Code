@@ -1,6 +1,6 @@
-德州游戏源码，德州app源码，德州扑克app源码，德州游戏app源码，运营几年的的高流水的德州扑克，
+德州游戏源码，德州app源码，德州扑克app源码，德州游戏app源码，运营几年的的高收入的德州扑克，
 
-支持数万玩家在线，出售全部代码资源，可以单独出售客户端源码，也可以单独出售服务器源码；TG:@alibabama401或邮箱：ttpoker40@gmail.com
+支持数万玩家在线，TG:@alibabama401或邮箱：ttpoker40@gmail.com
 ![04](https://github.com/user-attachments/assets/4c657c07-b274-44f0-b186-b8a3b77c307a)
 ![03](https://github.com/user-attachments/assets/b8218875-b1c2-40f2-b146-679876041b5c)
 ![02](https://github.com/user-attachments/assets/8a258f60-ffba-4d1a-8ab3-b32af5a0ac20)
